@@ -1,0 +1,6 @@
+C:\Users\Enis\Desktop\Ag_Programlama\MultiClient\bin\Debug\Multi Client.exe.config
+C:\Users\Enis\Desktop\Ag_Programlama\MultiClient\bin\Debug\Multi Client.exe
+C:\Users\Enis\Desktop\Ag_Programlama\MultiClient\bin\Debug\Multi Client.pdb
+C:\Users\Enis\Desktop\Ag_Programlama\MultiClient\obj\Debug\Multi Client.exe
+C:\Users\Enis\Desktop\Ag_Programlama\MultiClient\obj\Debug\Multi Client.pdb
+C:\Users\Enis\Desktop\Ag_Programlama\MultiClient\obj\Debug\MultiClient.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Enis\Desktop\Ag_Programlama\MultiServer\bin\Debug\Multi Server.exe.config
+C:\Users\Enis\Desktop\Ag_Programlama\MultiServer\bin\Debug\Multi Server.exe
+C:\Users\Enis\Desktop\Ag_Programlama\MultiServer\bin\Debug\Multi Server.pdb
+C:\Users\Enis\Desktop\Ag_Programlama\MultiServer\obj\Debug\Multi Server.exe
+C:\Users\Enis\Desktop\Ag_Programlama\MultiServer\obj\Debug\Multi Server.pdb
